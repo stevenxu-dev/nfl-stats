@@ -1,0 +1,33 @@
+Abbreviation,Name,Conference,Division
+BUF,Buffalo Bills,AFC,EAST
+MIA,Miami Dolphins,AFC,EAST
+NE,New England Patriots,AFC,EAST
+NYJ,New York Jets Dolphins,AFC,EAST
+KC,Kansas City Chiefs,AFC,WEST
+LAC,Los Angeles Chargers,AFC,WEST
+LV,Los Vegas Raiders,AFC,WEST
+DEN,Denver Broncos,AFC,WEST
+PIT,Pittsburgh Steelers,AFC,NORTH
+BAL,Baltimore Ravens,AFC,NORTH
+CIN,Cincinnati Bengals,AFC,NORTH
+CLE,Cleveland Browns,AFC,NORTH
+TEN,Tennessee Titans,AFC,SOUTH
+HOU,Houston Texans,AFC,SOUTH
+JAX,Jacksonville Jaguars,AFC,SOUTH
+IND,Indianapolis Colts,AFC,SOUTH
+DAL,Dallas Cowboys,NFC,EAST
+NYG,New York Giants,NFC,EAST
+PHI,Philadelphia Eagles,NFC,EAST
+WAS,Washington Commanders,NFC,EAST
+SF,San Francisco 49ers,NFC,WEST
+SEA,Seattle Seahawks,NFC,WEST
+LAR,Los Angeles Rams,NFC,WEST
+ARI,Arizona Cardinals,NFC,WEST
+CHI,Chicago Bears,NFC,NORTH
+MIN,Minnesota Vikings,NFC,NORTH
+GB,Green Bay Packers,NFC,NORTH
+DET,Detroit Lions,NFC,NORTH
+ATL,Atlanta Falcons,NFC,SOUTH
+CAR,Carolina Panthers,NFC,SOUTH
+NO,New Orleans Saints,NFC,SOUTH
+TB,Tampa Bay Buccaneers,NFC,SOUTH
